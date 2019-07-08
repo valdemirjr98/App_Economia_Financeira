@@ -1,2 +1,6 @@
-# Nosso_Aplicativo
-Aplicativo de Organização Financeira - Em Desenvolvimento
+# App de Economia Financeira
+Aplicativo de Organização Financeira - Ainda em Desenvolvimento
+
+
+
+
